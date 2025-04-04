@@ -1,0 +1,6 @@
+ID,name,description,unitPrice,currency,foodType
+001,Burger,Delicious beef burger,5.99,USD,BG
+002,Pizza,Cheesy pepperoni pizza,8.99,USD,PZ
+003,Pasta,Italian-style pasta,7.50,USD,PA
+004,Coffee,Freshly brewed coffee,2.99,USD,CF
+005,Smoothie,Fruit smoothie,4.99,USD,SM
